@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning dart
 - 💞️ I’m looking to collaborate on any mobile application development
-- 📫 Reach me at dj.pjn16@gmail.com
+- 📫 Reach me at justusnjogu16@gmail.com
 
 <!---
 justo340/justo340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
